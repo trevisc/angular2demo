@@ -1,3 +1,8 @@
+This is a demo by Deborah Kurata that I am using to learn Angular 2.  
+I am following her videos on pluralsight:
+https://app.pluralsight.com/library/courses/angular-2-getting-started/table-of-contents
+
+
 1) Open a command prompt in the project's root directory (APM)
 
 2) Type: `npm install`
